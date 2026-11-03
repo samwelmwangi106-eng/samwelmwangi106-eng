@@ -4,6 +4,10 @@ I'm a Full-Stack Developer focused on developing functional, scalable and user-f
 
 I enjoy working across frontend and backend technologies, building practical solutions and continuously improving my development skills.
 
+<div align="center"><a href="https://www.linkedin.com/in/samwel-mwangi-ba82bb3a9/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+</a></div>
+
 Technical Skills
 
 <div align="center"><img src="https://skillicons.dev/icons?i=python,javascript,react,flask,fastapi,nodejs,express,postgres,sqlite,html,css,tailwind,git,github,vscode&theme=dark" /></div>Featured Projects
