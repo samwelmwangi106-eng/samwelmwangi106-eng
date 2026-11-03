@@ -1,50 +1,34 @@
-<div align="center">Hey, I'm Samwel 👋
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Python+%26+JavaScript+Developer;Building+Digital+Solutions;Turning+Ideas+Into+Code" alt="Typing SVG" />
-</a>Building digital experiences, one line of code at a time.
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=SAMWEL&fontSize=65&color=0:7F00FF,100:00E5FF&stroke=00E5FF&animation=twinkling&fontColor=ffffff" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=yo%2C+I'm+Samwel+%F0%9F%91%BE;full-stack+dev+in+progress...;I+turn+coffee+into+code+%E2%98%95;404%3A+sleep+not+found;building+cool+stuff+%F0%9F%9A%80" /><p>
+  <img src="https://img.shields.io/badge/status-ONLINE-00f7ff?style=for-the-badge&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/vibe-UNSTABLE-purple?style=for-the-badge&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/coffee-REQUIRED-orange?style=for-the-badge&labelColor=111111"/>
+</p>just a guy who codes and occasionally fights with bugs.
 
 </div>---
 
-<div align="center"><marquee behavior="scroll" direction="left" scrollamount="6">
-  ⚡ FULL-STACK DEVELOPMENT &nbsp; • &nbsp; 🐍 PYTHON &nbsp; • &nbsp; ⚛️ REACT &nbsp; • &nbsp; 🌐 JAVASCRIPT &nbsp; • &nbsp; 🚀 BUILDING THE FUTURE &nbsp; • &nbsp; 💻 CLEAN CODE
-</marquee></div>👨‍💻 About Me
+🧃 a little about me
 
-I'm a Full-Stack Developer passionate about building practical applications and solving real-world problems through technology.
+- 💻 Full-stack developer.
+- 🐍 Python is part of the personality now.
+- ⚡ JavaScript keeps things interesting.
+- 🛠️ Building projects, breaking things, fixing them.
+- 🧠 Currently upgrading my brain's software.
 
-- 💻 Developing full-stack web applications.
-- 🐍 Working with Python and JavaScript.
-- ⚡ Exploring APIs, backend systems and modern frontend technologies.
-- 🚀 Constantly learning, building and improving.
+⚙️ my weapons of choice
 
-🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=python,javascript,react,flask,fastapi,nodejs,express,postgres,sqlite,html,css,tailwind,git,github,vscode&theme=dark" />🚀 stuff I've cooked
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,javascript,react,flask,fastapi,nodejs,express,postgres,sqlite,html,css,tailwind,git,github,vscode&theme=dark" /></div>🚀 Featured Projects
+Project| What's cooking?
+🛒 NovaMart| Full-stack e-commerce app
+🅿️ ParkAssist| Parking & vehicle management
+🎨 Personal Portfolio| My corner of the internet
 
-01. NovaMart
+"Explore my repositories →" (https://github.com/samwelmwangi106-eng?tab=repositories)
 
-A full-stack e-commerce application built with modern frontend and backend technologies.
+📊 the GitHub lore
 
-"View Repository →" (https://github.com/samwelmwangi106-eng/novamart)
+<img src="https://github-readme-stats.vercel.app/api?username=samwelmwangi106-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=bc8cff" width="100%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samwelmwangi106-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />---
 
-02. ParkAssist
+<div align="center"><img src="https://komarev.com/ghpvc/?username=samwelmwangi106-eng&style=for-the-badge&color=blueviolet&label=STALKERS" />stay curious. stay dangerous. keep shipping. 🛸
 
-A parking and vehicle access management system designed to manage parking records and vehicle entry.
-
-"View Repository →" (https://github.com/samwelmwangi106-eng/parkassist)
-
-03. Personal Portfolio
-
-My personal developer portfolio project, showcasing my work and development journey.
-
-"View Repository →" (https://github.com/samwelmwangi106-eng/PERSONAL-PORTFOLIO)
-
-📊 GitHub Statistics
-
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=samwelmwangi106-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samwelmwangi106-eng&layout=compact&theme=tokyonight&hide_border=true" /><img width="90%" src="https://streak-stats.demolab.com?user=samwelmwangi106-eng&theme=tokyonight&hide_border=true" /></div>---
-
-<div align="center">💬 Let's Build Something Great!
-
-Code. Create. Innovate. Repeat.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" /></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7F00FF&height=100&section=footer"/></div>
